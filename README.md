@@ -1,6 +1,13 @@
-# 👋
-
 ![Cover](https://github.com/EduardoRotundaro/EduardoRotundaro/blob/main/cover.png?raw=true)
+
+<center>
+    <table>
+        <tr>
+            <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRotundaro&hide=html&layout=compact&theme=buefy" /></td>
+            <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=EduardoRotundaro&theme=buefy"/></td>
+        </tr>   
+    </table>
+</center> 
 
 <!--
 **EduardoRotundaro/EduardoRotundaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
