@@ -1,4 +1,6 @@
-### Hi there 👋
+# 👋
+
+![Cover](https://github.com/EduardoRotundaro/EduardoRotundaro/blob/master/cover.png?raw=true)
 
 <!--
 **EduardoRotundaro/EduardoRotundaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
