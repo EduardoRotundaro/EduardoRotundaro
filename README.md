@@ -1,4 +1,4 @@
-![Cover](https://github.com/EduardoRotundaro/EduardoRotundaro/blob/main/cover.png?raw=true)
+![Cover](https://github.com/EduardoRotundaro/EduardoRotundaro/blob/main/cover.jpg?raw=true)
 
 <center>
     <table>
