@@ -3,10 +3,10 @@
 <center>
     <table>
         <tr>
-            <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRotundaro&hide=html&layout=compact&theme=buefy" /></td>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRotundaro&hide=html&layout=compact&theme=buefy" /></td>
         </tr>
         <tr>
-            <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=EduardoRotundaro&theme=buefy"/></td>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=EduardoRotundaro&theme=buefy"/></td>
         </tr>
     </table>
 </center> 
