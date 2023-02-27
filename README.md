@@ -1,5 +1,3 @@
-![Cover](https://github.com/EduardoRotundaro/EduardoRotundaro/blob/main/cover.jpg?raw=true)
-
 # Hi! 👋🏻
 
 My name is Eduardo Henrique.
