@@ -8,7 +8,7 @@ I work with back-end applications and databases, but currently my focus is front
 
 Here are some information about me:
 
-- 🧔 I'm 25 years old.
+- 🧔 I'm 27 years old.
 - 🎓 I'm a computer engineer. I graduated from Instituto Nacional de Telecomunicações (INATEL).
 - 💼 I'm currently working as a fullstack developer at [Olho no Carro](https://www.olhonocarro.com.br/).
 - 📄 For more information, check my [resume](https://eduardorotundaro.github.io/resume/).
